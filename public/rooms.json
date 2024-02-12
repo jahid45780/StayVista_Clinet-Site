@@ -38,7 +38,6 @@
     "category": "Beach"
   },
   {
-
     "location": "Dhaka, Bangladesh",
     "title": "Backpacker's Oasis",
     "from": "2023-11-25T18:00:00.000Z",
@@ -55,6 +54,347 @@
       "email": "jahidhossain@gmail.com"
     },
     "category": "Camping"
+  },
+  {
+    "location": "Dhaka, Bangladesh",
+    "title": "Eco-Friendly Haven",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 269,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/RYYnwtj/c405536d8dedc2f32ecca077d2ec8f27.jpg",
+    "host": {
+      "name": "Aslam",
+      "image": "https://i.ibb.co/XbhB9wW/371464803-870386464472613-3776066334767339694-n.jpg",
+      "email": "Aslam@gmail.com"
+    },
+    "category": "Lake"
+  },
+  {
+    "location": "Barisal, Bangladesh",
+    "title": "Bohemian Hideaway",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 269,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/ZmC6ndB/003-wheatacre-hall-barns.jpg",
+    "host": {
+      "name": "Kasem",
+      "image": "https://i.ibb.co/xC4kJLw/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "email": "Kasem@gmail.com"
+    },
+    "category": "Barns"
+  },
+  {
+    "location": "Barisal, Bangladesh",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 269,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/CQ4ynwS/331154953.jpg",
+    "host": {
+      "name": "Samit",
+      "image": "https://i.ibb.co/GcMQbz7/hardy.png",
+      "email": "Samit@gmail.com"
+    },
+    "category": "Lux"
+  },
+  {
+    "location": "Barisal, Bangladesh",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 269,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/dfX1tXy/414175361.jpg",
+    "host": {
+      "name": "Samit",
+      "image": "https://i.ibb.co/GcMQbz7/hardy.png",
+      "email": "Samit@gmail.com"
+    },
+    "category": "Lux"
+  },
+  {
+    "location": "Barisal, Bangladesh",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 269,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/RYqcsq2/327505229.jpg",
+    "host": {
+      "name": "Samit",
+      "image": "https://i.ibb.co/GcMQbz7/hardy.png",
+      "email": "Samit@gmail.com"
+    },
+    "category": "Lux"
+  },
+  {
+    "location": "Barisal, Bangladesh",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 189,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/B2N2ZzK/SUITE-ROOM.jpg",
+    "host": {
+      "name": "Samit",
+      "image": "https://i.ibb.co/GcMQbz7/hardy.png",
+      "email": "Samit@gmail.com"
+    },
+    "category": "Lux"
+  },
+  {
+    "location": "New Zealand",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 1550,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/mBxrCsr/640px-Thousand-Islands-single-house.jpg",
+    "host": {
+      "name": "Jayed",
+      "image": "https://i.ibb.co/TLbPXHc/Snapchat-1696534044.jpg",
+      "email": "jayed@gmail.com"
+    },
+    "category": "Islands"
+  },
+  {
+    "location": "New Zealand",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 1550,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/30qnWyQ/images.jpg",
+    "host": {
+      "name": "Jayed",
+      "image": "https://i.ibb.co/TB6qgw9/hub-island1.webp",
+      "email": "jayed@gmail.com"
+    },
+    "category": "Islands"
+  },
+  {
+    "location": "New Zealand",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 1550,
+    "guests": "2",
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/GPNj3SV/thousand-islands-162.jpg",
+    "host": {
+      "name": "Jayed",
+      "image": "https://i.ibb.co/TB6qgw9/hub-island1.webp",
+      "email": "jayed@gmail.com"
+    },
+    "category": "Islands"
+  },
+  {
+    "location": "New Zealand",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 1550,
+    "guests": "2",
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/WkzqmkN/0afb8cda3756f86af9f5389e8b4c0ee0.jpg",
+    "host": {
+      "name": "Jayed",
+      "image": "https://i.ibb.co/TB6qgw9/hub-island1.webp",
+      "email": "jayed@gmail.com"
+    },
+    "category": "Islands"
+  },
+  {
+    "location": "New Zealand",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 1550,
+    "guests": "2",
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/j8HfFJM/chateau-boldt-1000-iles.jpg",
+    "host": {
+      "name": "Jayed",
+      "image": "https://i.ibb.co/TB6qgw9/hub-island1.webp",
+      "email": "jayed@gmail.com"
+    },
+    "category": "Islands"
+  },
+  {
+    "location": "New Zealand",
+    "title": "Cityscape Escape",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 1550,
+    "guests": "2",
+    "bedrooms": "4",
+    "bathrooms": "5",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/j8HfFJM/chateau-boldt-1000-iles.jpg",
+    "host": {
+      "name": "Jayed",
+      "image": "https://i.ibb.co/WkzqmkN/0afb8cda3756f86af9f5389e8b4c0ee0.jpg",
+      "email": "jayed@gmail.com"
+    },
+    "category": "Islands"
+  },
+  {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/bJRjCTj/c1920-mykonosblugrecotelboutiqueresort-ux.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
+  },
+  {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/g4rfyY5/0eb755edd1e32b50b61ca63b912582d1.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
+  },
+  {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/q0xvKL5/indoor-swimming-pool.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
+  }, {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/NVZJfFR/900.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
+  },
+  {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/DGmGf4g/1920-mykonosblugrecotelboutiqueresort1-ux.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
+  }, {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/rvtfH4x/indoor-swimming-pool-1.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
+  },
+  {
+    "location": "Gazipur,Dhaka",
+    "title": "Tranquil Nook",
+    "from": "2023-11-25T18:00:00.000Z",
+    "to": "2023-11-29T18:00:00.000Z",
+    "price": 250,
+    "guests": "2",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
+    "image": "https://i.ibb.co/kJ74RmZ/davidhallamltd6.jpg",
+    "host": {
+      "name": "Mim",
+      "image": "https://i.ibb.co/n7fswN3/woman-portrait-walking-street.jpg",
+      "email": "mimdim@gmail.com"
+    },
+    "category": "Pools"
   }
+
 
 ]
