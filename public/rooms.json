@@ -40,7 +40,7 @@
   {
     "location": "Dhaka, Bangladesh",
     "title": "Backpacker's Oasis",
-    "from": "2023-11-25T18:00:00.000Z",
+    "from": "2023-11-20T18:00:00.000Z",
     "to": "2023-11-29T18:00:00.000Z",
     "price": 269,
     "guests": "2",
@@ -58,8 +58,8 @@
   {
     "location": "Dhaka, Bangladesh",
     "title": "Eco-Friendly Haven",
-    "from": "2023-11-25T18:00:00.000Z",
-    "to": "2023-11-29T18:00:00.000Z",
+    "from": "2023-11-21T18:00:00.000Z",
+    "to": "2023-11-27T18:00:00.000Z",
     "price": 269,
     "guests": "2",
     "bedrooms": "1",
@@ -263,7 +263,7 @@
     "bedrooms": "4",
     "bathrooms": "5",
     "description": "Enjoy the relaxed and comfortable enclosure of the Birdbox. Sleep right beside nature and its amazing  surroundings. Lay down and look at the spectacular mountains all around you. Put on your skis and have a breathtaking journey around the nearby trails. Hike down to Langelandsvatnet in the summer and enjoy swimming in energizing water. Your imagination is the limit for what you can experience.",
-    "image": "https://i.ibb.co/j8HfFJM/chateau-boldt-1000-iles.jpg",
+    "image": "https://i.ibb.co/f9rsnmF/images.jpg",
     "host": {
       "name": "Jayed",
       "image": "https://i.ibb.co/WkzqmkN/0afb8cda3756f86af9f5389e8b4c0ee0.jpg",
@@ -345,7 +345,7 @@
   {
     "location": "Gazipur,Dhaka",
     "title": "Tranquil Nook",
-    "from": "2023-11-25T18:00:00.000Z",
+    "from": "2023-11-22T18:00:00.000Z",
     "to": "2023-11-29T18:00:00.000Z",
     "price": 250,
     "guests": "2",

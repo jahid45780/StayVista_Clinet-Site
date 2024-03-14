@@ -2,7 +2,11 @@ import { useParams } from "react-router-dom";
 import Container from "../../components/Shared/Container";
 import { useEffect, useState } from "react";
 import Loader from "../../components/Shared/Loader";
-import { Helmet } from "react-helmet-async";
+import { Helmet } from "react-helmet-async"
+import Header from "../../components/RoomDitali/Header";
+import RoomInfo from "../../components/RoomDitali/RoomInfo";
+import RoomReservation from "../../components/RoomDitali/RoomReservation";
+
 
 const RoomDetails = () => {
     const {id} = useParams()
@@ -11,7 +15,7 @@ const RoomDetails = () => {
 
     useEffect(()=>{
         setLoading(true)
-        fetch('/rooms.json')
+        fetch('https://raw.githubusercontent.com/shakilahmedatik/stay-vista-part1/main/client/public/rooms.json')
         .then(res=>res.json())
         .then(data=> {
             
@@ -26,24 +30,37 @@ const RoomDetails = () => {
 
     return <Container>
           
-          <Helmet> <title> {room?.title} </title> </Helmet>
+          
 
+          <div className=" max-w-screen-lg mx-auto" >
 
-          <div>
+          <Helmet> <title> JB Booking Details </title> </Helmet>
 
          <div className=" flex flex-col gap-6" >
    
-              {/* header */}
+             <Header roomData={room} ></Header>
+                      
+              <div className="  grid grid-cols-1 md:grid-cols-7 md:gap-10 mt-3" >
+               
+               <RoomInfo roomData={room} ></RoomInfo>
 
-              <div>
-                {/* room info */}
+               {/* RoomReservation */}
+               <div className=" md:col-span-3 order-first md:order-last" >
+           
+                  <RoomReservation room={room} ></RoomReservation>
+
+               </div>
+
               </div>
 
-              {/* calender */}
+              
 
          </div>
 
           </div>
+
+
+          
           
     </Container>
 };

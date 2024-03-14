@@ -32,7 +32,7 @@ const Button = ({ label, onClick, disabled, outline, small, icon: Icon }) => {
             '
         />
       )}
-      {label}
+      {label }
     </button>
   )
 }
