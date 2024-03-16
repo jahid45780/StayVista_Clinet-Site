@@ -1,13 +1,16 @@
 /* eslint-disable no-undef */
 import { DateRange } from 'react-date-range';
-const Calender = () => {
+const Calender = ({value}) => {
+    // console.log(value);
     return (
-        <DateRange
-        rangeColors={['#F43F5E']}
+     <DateRange
+         rangeColors={[ "#6e67da" ]}  
+         ranges={[value]}
         direction='vertical'
         showDateDisplay={false}
+   
+     ></DateRange>
      
-      />
     );
 };
 
